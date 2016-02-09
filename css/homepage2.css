@@ -1,0 +1,10 @@
+video {
+	margin: auto;
+}
+
+.nav-bar ul li {
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+	padding: 5px 25px
+}
