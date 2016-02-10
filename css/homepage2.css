@@ -7,7 +7,17 @@ video {
 	margin: 0 auto;
 	text-align: center;
 	padding: 5px 25px
+
 }
+
+.nav-bar ul{
+	font-family:"Helvetica";
+	background-color:black;
+	font-size: 25px;
+	border: 1px solid black;
+	color:rgb(255,255,255);
+}
+
 
 .continer-articles {
 	width: 70%;
@@ -16,7 +26,7 @@ video {
 <<<<<<< HEAD
 
 fieldset{
-	padding-bottom :15px;
+	padgit ding-bottom :15px;
 }
 
 =======
