@@ -9,18 +9,47 @@ video {
 	padding: 5px 25px
 }
 
-.nav-bar ul{
-	font-family:"Helvetica";
-	background-color:black;
+.nav-bar ul li{
 	font-size: 20px;
-	border: 1px solid black;
-	color:rgb(255,255,255);
+	font-style: "Helvetica";
+
+
 }
 
+.nav-bar ul li a{
+	color: black;
+	border-right: 1px solid black;
+	padding-right: 15px;
+}
+
+
+a:a:last-child{
+	border-right: 1px solid white;
+}
 
 .continer-articles {
 	width: 70%;
 }
+
+
+#div1{
+	height:90px;
+	width: 100%
+}
+
+#div2{
+	height:90px;
+	width: 100%;
+
+}
+
+#div3{
+	height:90px;
+	width: 100%;
+	margin:60px;
+	right: 80px;
+}
+
 
 <<<<<<< HEAD
 
